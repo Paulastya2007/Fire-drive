@@ -1,3 +1,7 @@
+Here’s your updated and polished `README` section with the additional Firebase setup instructions and screenshot integration:
+
+---
+
 # 🔥 Fire Drive
 
 ## 📁 Project Overview
@@ -48,16 +52,27 @@ const firebaseConfig = {
 };
 ```
 
-Ensure that these environment variables are defined in your `.env.local` file.
+Make sure to define these variables in a `.env.local` file at the root of your project.
+
+### 3. Enable Firebase Services
+
+To ensure Fire Drive works correctly, make sure the following Firebase services are **enabled** in your Firebase console:
+
+* **Email/Password Authentication** (via Firebase Authentication)
+* **Firebase Storage** (for uploading and managing files)
 
 ---
 
-🎉 **You're all set!** Run the development server and start using Fire Drive.
+✅ **You're all set!** Start the development server and explore Fire Drive.
 
+---
 
-Some Screen Shots on how the app looks
+## 🖼️ Screenshots
+
+Here's a quick look at the app in action:
+
 ![image](https://github.com/user-attachments/assets/79a2f31f-6f81-4d01-a769-5b070ea33fd0)
 ![Screenshot 2025-05-08 202052](https://github.com/user-attachments/assets/df7640f4-5a16-4f87-898c-c4803665a0b4)
 ![Screenshot 2025-05-08 202029](https://github.com/user-attachments/assets/a13f361f-5176-4dd9-a93a-86f0e2fa4032)
 
-
+---
