@@ -1,7 +1,3 @@
-Here’s your updated and polished `README` section with the additional Firebase setup instructions and screenshot integration:
-
----
-
 # 🔥 Fire Drive
 
 ## 📁 Project Overview
